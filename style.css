@@ -26,8 +26,9 @@ h2{
     background-repeat: no-repeat;
 }
 section{
-    height: 500px;
+    height: 700px;
     padding-bottom: 0px;
+    overflow: hidden;
 }
 .link-button{
     text-decoration: none;
